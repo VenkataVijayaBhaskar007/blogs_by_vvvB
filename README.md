@@ -8,7 +8,7 @@ Simple static blog using markdown and Next.js
 
 ```bash
 # Install dependencies
-npm install
+npm installl
 
 # Run dev server
 npm run dev
