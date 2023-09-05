@@ -1,7 +1,7 @@
 ---
 title: 'Everything about UI / UX designing'
 date: 'March 4, 2023'
-excerpt: 'We will look at 10 simple tips and tricks to increase the speed of your code when writing JS'
+excerpt: 'In this article we will be getting a quick preface about UI / UX designing'
 cover_image: '/images/posts/img1.jpg'
 ---
 

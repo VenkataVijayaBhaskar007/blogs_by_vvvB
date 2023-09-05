@@ -2,7 +2,7 @@
 title: 'React props
 '
 date: 'Feb 5, 2023'
-excerpt: 'Both Tailwind and Bootstrap are very popular CSS frameworks. In this article, we will compare them'
+excerpt: 'In this article we will be looking about how React props works'
 cover_image: '/images/posts/img2.jpg'
 ---
 

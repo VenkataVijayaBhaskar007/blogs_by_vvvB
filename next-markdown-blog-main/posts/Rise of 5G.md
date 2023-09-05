@@ -1,7 +1,7 @@
 ---
 title: 'The rise of 5G Technology'
 date: 'Dec, 2022'
-excerpt: 'We will look at 10 simple tips and tricks on writing unit tests in JavaScript'
+excerpt: 'A blog about The Rise of 5G technology to know more about it clearly'
 cover_image: '/images/posts/img7.jpg'
 ---
 

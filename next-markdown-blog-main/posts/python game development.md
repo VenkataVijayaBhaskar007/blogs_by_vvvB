@@ -1,7 +1,7 @@
 ---
 title: 'Python game development'
 date: 'Jul 17, 2023'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
+excerpt: 'In this review, we will be looking at gamedevelopment in python'
 cover_image: '/images/posts/img6.jpg'
 ---
 
