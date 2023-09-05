@@ -2,7 +2,7 @@
 
 Simple static blog using markdown and Next.js
 
-[DEMO](facebook.com)
+
 
 ## Usage
 
